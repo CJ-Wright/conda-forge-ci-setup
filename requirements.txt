@@ -1,0 +1,9 @@
+python
+pip
+conda
+conda-env
+click
+jinja2
+anaconda-client
+conda-build
+
