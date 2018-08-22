@@ -15,4 +15,4 @@ $CHANGELOG_FILENAME = 'CHANGELOG.rst'
 $CHANGELOG_IGNORE = ['TEMPLATE']
 
 $GITHUB_ORG = 'CJ-Wright'
-$GITHUB_REPO = conda-forge-ci-setup
+$GITHUB_REPO = 'conda-forge-ci-setup'
