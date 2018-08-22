@@ -22,6 +22,7 @@ install:
   - export GIT_FULL_HASH=`git rev-parse HEAD`
   - conda install --file requirements.txt
   - conda install --file test_requirements.txt
+  - python -m pip install . --no-deps --ignore-installed --no-cache-dir -vvv
 
 script:
   - set -e
